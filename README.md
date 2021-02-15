@@ -1,3 +1,4 @@
 # workshop-python
-Nama  : Hassan Fasya Hidayat\n
+Nama  : Hassan Fasya Hidayat
+
 NIM   : 185410003

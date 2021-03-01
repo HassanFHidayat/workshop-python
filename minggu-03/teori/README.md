@@ -24,11 +24,11 @@ di mana elemen pertama yang ditambahkan adalah elemen pertama yang diambil.
 Namun, list tidak efisien untuk tujuan ini.
 Implementasi yang digunakan adalah menggunakan metode collections.deque.
 
-##* List Comprehensions
+### List Comprehensions
 Penggunaan list paling umum adalah membuat list, 
 di mana setiap elemen adalah hasil dari beberapa operasi yang diterapkan ke setiap anggota urutan lain atau dapat diulang.
 
-##* Nested List
+### Nested List
 Ekspresi awal dalam pemahaman list dapat berupa ekspresi sembarang apa
 pun, termasuk pemahaman list lainnya.
 

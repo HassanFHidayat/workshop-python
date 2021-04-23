@@ -1,0 +1,54 @@
+D:
+
+cd Documents\STMIK Akakom\Semester 6\4. Workshop (Python)\minggu-09
+
+python -m venv tutorial-env
+
+tutorial-env\Scripts\activate.bat
+
+python
+
+>>> import sys
+>>> sys.path
+
+python -m pip install novas
+
+python -m pip install requests==2.6.0
+
+pip show requests
+
+pip list
+
+pip freeze > requirements.txt
+
+python -m pip install -r requirements.txt
+
+conda --version
+
+conda update conda
+
+conda create --name snowflakes biopython
+
+conda activate snowflakes
+
+conda info --envs
+
+conda activate
+
+conda create --name snakes python=3.5
+
+conda info --envs
+
+conda activate snakes
+
+python --version
+
+conda activate
+
+conda activate snakes
+
+conda search beautifulsoup4
+
+conda install beautifulsoup4
+
+conda list

@@ -1,0 +1,2 @@
+## NumPy dan Matplotlib
+Modul Numpy dan Matplotlib dapat digunakan untuk pengolahan data dengan membuat array maupun plot menjadi grafik. Numpy berguna untuk mengolah data numerik dengan kemampuan analisis data. Sedangkan matplotlib berfungsi membuat visual untuk data.
